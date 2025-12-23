@@ -3,3 +3,7 @@ title: "sample"
 output: html_document
 ---
 
+```{r}
+abc=rnorm(1000)
+```
+
